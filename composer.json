@@ -1,5 +1,5 @@
 {
-    "name": "adu42/wang-editor",
+    "name": "encore/wang-editor",
     "description": "wangEditor extension for laravel-admin",
     "type": "library",
     "keywords": ["laravel-admin", "extension", "editor"],
