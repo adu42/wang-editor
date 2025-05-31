@@ -3,7 +3,7 @@
     "description": "wangEditor extension for laravel-admin",
     "type": "library",
     "keywords": ["laravel-admin", "extension", "editor"],
-    "homepage": "https://github.com/laravel-admin-extensions/wangEditor",
+    "homepage": "https://github.com/adu42/wangEditor",
     "license": "MIT",
     "authors": [
         {
